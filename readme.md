@@ -50,7 +50,7 @@ Direct board pads SDA32 and SCL33 (+3v & Gnd) can also be set with a small code 
 
 https://github.com/OLIMEX/ESP32-POE/blob/master/DOCUMENTS/ESP32-POE-user-manual.pdf
 
-<img width="2248" height="1529" alt="image" src="https://github.com/user-attachments/assets/ad9a12ee-d02e-4f69-a946-12edd1c011a6" />
+<img width="2248" height="1529" alt="image" src="https://github.com/Mraanderson/esp32-poe-lldp/blob/main/docs/esp32-poe-info.png" />
 
 ---
 
