@@ -27,7 +27,7 @@ Displays project name and version on boot.
 - **SSD1306 128×64 OLED (I2C)**  
 - **Olimex ESP32‑POE**  
 
-![Pihut-Cart](https://github.com/JustAnotherUser3/ESP32-POE_PortTester/blob/41be665234bf797e72f4e7011e99fe3910029231/docs/ESP32-POE_OLED.png)
+![Pihut-Cart](https://github.com/Mraanderson/esp32-poe-lldp/blob/main/docs/ESP32-POE_OLED.png)
 
 - Ethernet connection to a switch that sends LLDP
 
@@ -42,7 +42,7 @@ Displays project name and version on boot.
 | GND      | GND           |  2   |
 | SCL      | GPIO 16       |  5   |
 | SDA      | GPIO 13       |  6   |
-![UEXT-PINS](https://github.com/Mraanderson/esp32-poe-lldp/blob/main/docs/ESP32-POE_OLED.png)
+![UEXT-PINS](https://github.com/Mraanderson/esp32-poe-lldp/blob/main/docs/UEXT-PINS.jpg)
 
 https://www.olimex.com/Products/Modules/images/UEXT-PINS.jpg
 
