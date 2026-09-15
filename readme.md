@@ -42,7 +42,7 @@ Displays project name and version on boot.
 | GND      | GND           |  2   |
 | SCL      | GPIO 16       |  5   |
 | SDA      | GPIO 13       |  6   |
-![UEXT-PINS](https://github.com/user-attachments/assets/61d54efc-490f-4c64-9923-df4e31d0b1cb)
+![UEXT-PINS](https://github.com/Mraanderson/esp32-poe-lldp/blob/main/docs/ESP32-POE_OLED.png)
 
 https://www.olimex.com/Products/Modules/images/UEXT-PINS.jpg
 
